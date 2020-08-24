@@ -1,0 +1,65 @@
+
+#one {
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+.two {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  text-align: left;
+  color: white;
+}
+body {
+}
+.img23 {
+  float: left;
+}
+.titles {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+.title {
+  font-family: "Georgia", serif;
+  font-size: 40px;
+  color: white;
+}
+.smalltitles {
+  font-family: "Georgia", serif;
+  font-size: 30px;
+  color: white;
+}
+.menu {
+  list-style: none;
+  background-color: steelblue;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+.menu li {
+  float: left;
+}
+.menu li a {
+  display: block;
+  padding: 16px 18px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.imgContainer{
+    float:left;
+    padding: 10px
+}
+pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 45%;
+}
+.wwo {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: white;
+}
